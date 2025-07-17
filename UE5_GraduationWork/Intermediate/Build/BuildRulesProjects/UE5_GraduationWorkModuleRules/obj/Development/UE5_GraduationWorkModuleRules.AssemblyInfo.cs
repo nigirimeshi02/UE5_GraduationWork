@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE5_GraduationWorkModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fda8f0a1c0758841cc9e48afc56aecc03c2d97f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f024c70379cf4ce2b0fb7e7fd87ccce41ec23c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE5_GraduationWorkModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE5_GraduationWorkModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

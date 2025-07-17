@@ -17,8 +17,10 @@ public class UE5_GraduationWork : ModuleRules
 			"AIModule",
 			"StateTreeModule",
 			"GameplayStateTreeModule",
-			"UMG"
-		});
+			"UMG",
+            "GameplayTags",
+            "GameplayTasks"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
 
@@ -26,8 +28,9 @@ public class UE5_GraduationWork : ModuleRules
 			"UE5_GraduationWork",
 			"UE5_GraduationWork/Variant_Horror",
 			"UE5_GraduationWork/Variant_Shooter",
-			"UE5_GraduationWork/Variant_Shooter/AI"
-		});
+			"UE5_GraduationWork/Variant_Shooter/AI",
+            "GameplayAbilities"
+        });
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });

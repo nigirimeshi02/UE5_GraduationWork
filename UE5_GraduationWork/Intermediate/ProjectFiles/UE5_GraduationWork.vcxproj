@@ -252,6 +252,7 @@
     <None Include="..\..\UE5_GraduationWork.uproject"/>
     <None Include="..\..\Source\UE5_GraduationWork.Target.cs"/>
     <None Include="..\..\Source\UE5_GraduationWorkEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
