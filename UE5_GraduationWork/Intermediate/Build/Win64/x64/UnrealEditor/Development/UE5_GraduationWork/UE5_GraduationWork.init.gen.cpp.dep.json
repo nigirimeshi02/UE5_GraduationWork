@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\ue5_graduationwork\\ue5_graduationwork\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_graduationwork\\uht\\ue5_graduationwork.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\ue5_graduationwork\\ue5_graduationwork\\intermediate\\build\\win64\\x64\\ue5_graduationworkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\ue5_graduationwork\\ue5_graduationwork\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_graduationwork\\definitions.ue5_graduationwork.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

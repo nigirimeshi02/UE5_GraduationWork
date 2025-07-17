@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE5_GraduationWork.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5_GraduationWork.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE5_GraduationWorkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE5_GraduationWork">
+      <UniqueIdentifier>{4A97FB27-5618-366C-87A1-850A4C0DD14A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWork.Build.cs">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWork.cpp">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWork.h">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkCameraManager.cpp">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkCameraManager.h">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkCharacter.cpp">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkCharacter.h">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkGameMode.cpp">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkGameMode.h">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkPlayerController.cpp">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\UE5_GraduationWorkPlayerController.h">
+      <Filter>Source\UE5_GraduationWork</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE5_GraduationWork\Variant_Horror">
+      <UniqueIdentifier>{CC486412-87F3-34D9-A96C-1C9FB5C8AF70}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorUI.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Horror\HorrorUI.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE5_GraduationWork\Variant_Shooter">
+      <UniqueIdentifier>{CF55B8B4-C7D0-3B48-ADBB-013017ED7745}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterBulletCounterUI.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterBulletCounterUI.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterPickup.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterPickup.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterProjectile.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterProjectile.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterUI.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterUI.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterWeapon.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterWeapon.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterWeaponHolder.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\ShooterWeaponHolder.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE5_GraduationWork\Variant_Shooter\AI">
+      <UniqueIdentifier>{EA976F58-8B04-3C69-A657-ED92ED5D1FB7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_GraduationWork\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\UE5_GraduationWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

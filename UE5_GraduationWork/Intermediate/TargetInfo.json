@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_GraduationWork",
+			"Path": "..\\Source\\UE5_GraduationWork.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_GraduationWorkEditor",
+			"Path": "..\\Source\\UE5_GraduationWorkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
